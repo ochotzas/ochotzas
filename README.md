@@ -1,13 +1,19 @@
-# 💫 About Me:
-At Aristotle University of Thessaloniki (AUTh), I am pursuing a bachelor's degree in computer science. In order to obtain more real-world experience and exposure to the workplace, I am looking for employment in fields that are complementary to computer science.
+# 👋 Hey, fellow Coders!
 
+I'm Olger, a code enthusiast always chasing the perfect solution. I get a kick out of turning coffee into code and solving complex puzzles with clean and efficient methods. When I'm not coding, I'm exploring new projects and embarking on adventures, both in the digital and real worlds.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chotz.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olgerchotza) 
+## 🚀 What I'm Up To
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+- 🌐 Tech Explorer: I love diving into the latest tech trends and experimenting with cutting-edge tools.
+- 📚 Lifelong Learner: I'm constantly expanding my skills and knowledge.
+- 🌱 Open Source Supporter: I believe in the power of open source and regularly contribute to projects I'm passionate about.
 
-  ## 💰 You can help me by Donating
-  [![Revolut](https://img.shields.io/badge/Revolut-39343b?style=for-the-badge&logo=revolut&logoColor=white)](https://revolut.me/olger)
-  
+## 🌟 My Coding Mission
+
+My goal? To make the digital world more accessible and bug-free for everyone. I'm driven by my passion for solving problems and writing efficient code.
+
+## 📫 Let's Connect
+
+Let's collaborate and create amazing things together! Reach out to me on [LinkedIn](https://gr.linkedin.com/in/olgerchotza) or drop me an email at olgerdev@icloud.com if you have questions or just want to chat.
+
+Here's to coding and creating! 🚀💻
